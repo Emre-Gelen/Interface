@@ -1,0 +1,6 @@
+C:\Users\SisLab\Desktop\Nesne\G3\2Intli\2Intli\bin\Debug\2Intli.exe.config
+C:\Users\SisLab\Desktop\Nesne\G3\2Intli\2Intli\bin\Debug\2Intli.exe
+C:\Users\SisLab\Desktop\Nesne\G3\2Intli\2Intli\bin\Debug\2Intli.pdb
+C:\Users\SisLab\Desktop\Nesne\G3\2Intli\2Intli\obj\Debug\2Intli.csprojResolveAssemblyReference.cache
+C:\Users\SisLab\Desktop\Nesne\G3\2Intli\2Intli\obj\Debug\2Intli.exe
+C:\Users\SisLab\Desktop\Nesne\G3\2Intli\2Intli\obj\Debug\2Intli.pdb
